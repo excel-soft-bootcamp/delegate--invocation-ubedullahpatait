@@ -29,10 +29,7 @@ namespace DelegateInvocation
         {
 
         }
-        //void Task2(string data1)
-        //{
-
-        //}
+        
         int Task2(int A)
         {
             return A;
