@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DelegateInvocation
 {
-    class DelegateInvocationType
+    class Program
     {
 
           static double Calculate(int x, double y)
